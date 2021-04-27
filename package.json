@@ -18,7 +18,7 @@
     "tslint-win": "tslint -c tslint.json -p tsconfig.json"
   },
   "dependencies": {
-    "redis": "2.8.0"
+    "redis": "3.1.1"
   },
   "devDependencies": {
     "typescript": "^3.1.6",
